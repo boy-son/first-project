@@ -84,6 +84,7 @@ margin: right 25px;
 /* standards for images in article. */
 .main-article img {
     max-height: 200px;
+    padding: 15px;
 }
 /* standards for headers in main block. */
 .main-article h2 {
