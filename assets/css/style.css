@@ -55,7 +55,7 @@ margin: left 25px;
 /* for giving the main images their positioning; collapsing them into their respective img tags didn't help any. */
 .float-left {
 float:left;
-margin: left 25px;    
+margin: right 25px;    
 }
 /* gives the size, position, and source for the background image of the site. */
 .hero {
@@ -89,6 +89,7 @@ margin: left 25px;
 .main-article h2 {
     margin-bottom: 20px;
     font-size: 36px;
+    text-align: center;
 }
 
 /* sets the standards for the benefits bar on the side of the page. */
