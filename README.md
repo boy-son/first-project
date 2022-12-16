@@ -25,5 +25,13 @@ THEN I find a concise, descriptive title
 - restructured CSS sheet so that it flows top to bottom.
 - added comments to CCS sheet to explain the functions of each element.
 
-## End Product
+## Demonstration
+Here is the finished stage of the website.
 
+<img src="/assets/images/main.png.png" alt="finished website" title="SEO"> 
+
+## Finished Project
+The final product can be found here: https://boy-son.github.io/first-project/
+
+## Contributions
+Starter code for project:(https://github.com/coding-boot-camp/urban-octo-telegram)
